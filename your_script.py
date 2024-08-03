@@ -1,1 +1,1 @@
-print("Hello from vcs2")
+print("Hello from vcs new")
